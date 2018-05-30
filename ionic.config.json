@@ -1,0 +1,8 @@
+{
+  "name": "bluetoothDemo",
+  "app_id": "0dd2c8f9",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
